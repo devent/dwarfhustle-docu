@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "/home/devent/Downloads/",
+  "images": [
+    {
+      "name": "carbon_dioxide-01-512.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/dwarfhustle-assetpack/assets/Textures/Tiles/Gas/carbon_dioxide-01-512.png",
+      "folder": ""
+    },
+    {
+      "name": "oxygen-01-512.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/dwarfhustle-assetpack/assets/Textures/Tiles/Gas/oxygen-01-512.png",
+      "folder": ""
+    },
+    {
+      "name": "polluted_oxygen-01-512.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/dwarfhustle-assetpack/assets/Textures/Tiles/Gas/polluted_oxygen-01-512.png",
+      "folder": ""
+    },
+    {
+      "name": "sulfur_dioxide-01-512.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/dwarfhustle-assetpack/assets/Textures/Tiles/Gas/sulfur_dioxide-01-512.png",
+      "folder": ""
+    },
+    {
+      "name": "vacuum-01-512.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/dwarfhustle-assetpack/assets/Textures/Tiles/Gas/vacuum-01-512.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "gas",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "/home/devent/Downloads/",
+    "width": 2000,
+    "height": 2000,
+    "fixedSize": true,
+    "powerOfTwo": true,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

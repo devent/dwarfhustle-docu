@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/",
+  "images": [
+    {
+      "name": "block-loam-1.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/block-loam-1.png",
+      "folder": ""
+    },
+    {
+      "name": "block-loamy_sand-1.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/block-loamy_sand-1.png",
+      "folder": ""
+    },
+    {
+      "name": "block-peat-1.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/block-peat-1.png",
+      "folder": ""
+    },
+    {
+      "name": "block-sandy_clay_loam-1.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/block-sandy_clay_loam-1.png",
+      "folder": ""
+    },
+    {
+      "name": "block-sandy_loam-1.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/block-sandy_loam-1.png",
+      "folder": ""
+    },
+    {
+      "name": "block-silt-1.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/block-silt-1.png",
+      "folder": ""
+    },
+    {
+      "name": "block-silt_loam-1.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/block-silt_loam-1.png",
+      "folder": ""
+    },
+    {
+      "name": "block-silty_clay_loam-1.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/block-silty_clay_loam-1.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "topsoil-map",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/",
+    "width": 1024,
+    "height": 1024,
+    "fixedSize": true,
+    "powerOfTwo": true,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": false,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

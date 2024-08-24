@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.fimanager:before {
+      display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    display: block;
+}
+
+.flaticon-001-armor:before { content: "\f100"; }
+.flaticon-002-castle:before { content: "\f101"; }
+.flaticon-003-bow:before { content: "\f102"; }
+.flaticon-004-executioner:before { content: "\f103"; }
+.flaticon-005-sword:before { content: "\f104"; }
+.flaticon-006-flail:before { content: "\f105"; }
+.flaticon-007-queen:before { content: "\f106"; }
+.flaticon-008-gate:before { content: "\f107"; }
+.flaticon-009-helmet:before { content: "\f108"; }
+.flaticon-010-flag:before { content: "\f109"; }
+.flaticon-011-key:before { content: "\f10a"; }
+.flaticon-012-flag:before { content: "\f10b"; }
+.flaticon-013-king:before { content: "\f10c"; }
+.flaticon-014-crown:before { content: "\f10d"; }
+.flaticon-015-maraca:before { content: "\f10e"; }
+.flaticon-016-necklace:before { content: "\f10f"; }
+.flaticon-017-inkwell:before { content: "\f110"; }
+.flaticon-018-queen:before { content: "\f111"; }
+.flaticon-019-money-bag:before { content: "\f112"; }
+.flaticon-020-scroll:before { content: "\f113"; }
+.flaticon-021-scroll:before { content: "\f114"; }
+.flaticon-022-shield:before { content: "\f115"; }
+.flaticon-023-speelbook:before { content: "\f116"; }
+.flaticon-024-sword:before { content: "\f117"; }
+.flaticon-025-excalibur:before { content: "\f118"; }
+.flaticon-026-target:before { content: "\f119"; }
+.flaticon-027-throne:before { content: "\f11a"; }
+.flaticon-028-magic-wand:before { content: "\f11b"; }
+.flaticon-029-box:before { content: "\f11c"; }
+.flaticon-030-cart:before { content: "\f11d"; }

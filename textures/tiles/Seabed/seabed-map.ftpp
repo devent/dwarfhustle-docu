@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Seabed",
+  "images": [
+    {
+      "name": "calcareous_ooze-01-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Seabed/calcareous_ooze-01-128.png",
+      "folder": ""
+    },
+    {
+      "name": "pelagic_clay-01-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Seabed/pelagic_clay-01-128.png",
+      "folder": ""
+    },
+    {
+      "name": "siliceous_ooze-01-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Seabed/siliceous_ooze-01-128.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "seabed-map",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Seabed",
+    "width": 512,
+    "height": 512,
+    "fixedSize": true,
+    "powerOfTwo": true,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

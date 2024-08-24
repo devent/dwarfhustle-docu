@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Metamorphic",
+  "images": [
+    {
+      "name": "gneiss-02-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Metamorphic/gneiss-02-128.png",
+      "folder": ""
+    },
+    {
+      "name": "marble-02-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Metamorphic/marble-02-128.png",
+      "folder": ""
+    },
+    {
+      "name": "phyllite-02-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Metamorphic/phyllite-02-128.png",
+      "folder": ""
+    },
+    {
+      "name": "quartzite-03-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Metamorphic/quartzite-03-128.png",
+      "folder": ""
+    },
+    {
+      "name": "schist-03-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Metamorphic/schist-03-128.png",
+      "folder": ""
+    },
+    {
+      "name": "slate-02-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Metamorphic/slate-02-128.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "metamorphic-map",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Metamorphic",
+    "width": 512,
+    "height": 512,
+    "fixedSize": true,
+    "powerOfTwo": true,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}
