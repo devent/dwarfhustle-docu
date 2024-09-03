@@ -1,119 +1,119 @@
 {
   "frames": {
-    "carbon_dioxide-01-128.png": {
+    "block-carbon_dioxide-1.png": {
       "frame": {
         "x": 0,
         "y": 0,
-        "w": 128,
-        "h": 128
+        "w": 256,
+        "h": 256
       },
       "rotated": false,
       "trimmed": false,
       "spriteSourceSize": {
         "x": 0,
         "y": 0,
-        "w": 128,
-        "h": 128
+        "w": 256,
+        "h": 256
       },
       "sourceSize": {
-        "w": 128,
-        "h": 128
+        "w": 256,
+        "h": 256
       },
       "pivot": {
         "x": 0.5,
         "y": 0.5
       }
     },
-    "oxygen-01-128.png": {
-      "frame": {
-        "x": 0,
-        "y": 128,
-        "w": 128,
-        "h": 128
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 128,
-        "h": 128
-      },
-      "sourceSize": {
-        "w": 128,
-        "h": 128
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
-    },
-    "polluted_oxygen-01-128.png": {
+    "block-oxygen-1.png": {
       "frame": {
         "x": 0,
         "y": 256,
-        "w": 128,
-        "h": 128
+        "w": 256,
+        "h": 256
       },
       "rotated": false,
       "trimmed": false,
       "spriteSourceSize": {
         "x": 0,
         "y": 0,
-        "w": 128,
-        "h": 128
+        "w": 256,
+        "h": 256
       },
       "sourceSize": {
-        "w": 128,
-        "h": 128
+        "w": 256,
+        "h": 256
       },
       "pivot": {
         "x": 0.5,
         "y": 0.5
       }
     },
-    "sulfur_dioxide-01-128.png": {
+    "block-polluted_oxygen-1.png": {
       "frame": {
         "x": 0,
-        "y": 384,
-        "w": 128,
-        "h": 128
+        "y": 512,
+        "w": 256,
+        "h": 256
       },
       "rotated": false,
       "trimmed": false,
       "spriteSourceSize": {
         "x": 0,
         "y": 0,
-        "w": 128,
-        "h": 128
+        "w": 256,
+        "h": 256
       },
       "sourceSize": {
-        "w": 128,
-        "h": 128
+        "w": 256,
+        "h": 256
       },
       "pivot": {
         "x": 0.5,
         "y": 0.5
       }
     },
-    "vacuum-01-128.png": {
+    "block-sulfur_dioxide-1.png": {
       "frame": {
-        "x": 128,
-        "y": 0,
-        "w": 128,
-        "h": 128
+        "x": 0,
+        "y": 768,
+        "w": 256,
+        "h": 256
       },
       "rotated": false,
       "trimmed": false,
       "spriteSourceSize": {
         "x": 0,
         "y": 0,
-        "w": 128,
-        "h": 128
+        "w": 256,
+        "h": 256
       },
       "sourceSize": {
-        "w": 128,
-        "h": 128
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "block-vacuum-1.png": {
+      "frame": {
+        "x": 256,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
       },
       "pivot": {
         "x": 0.5,
@@ -127,8 +127,8 @@
     "image": "gas-map.png",
     "format": "RGBA8888",
     "size": {
-      "w": 512,
-      "h": 512
+      "w": 1024,
+      "h": 1024
     },
     "scale": 1
   }

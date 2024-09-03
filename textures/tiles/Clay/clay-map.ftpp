@@ -2,56 +2,56 @@
   "meta": {
     "version": "0.6.7"
   },
-  "savePath": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Clay",
+  "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/",
   "images": [
     {
-      "name": "clay-128.jpg",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Clay/clay-128.jpg",
+      "name": "blocks-clay-1.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/blocks-clay-1.png",
       "folder": ""
     },
     {
-      "name": "clay_loam-128.jpg",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Clay/clay_loam-128.jpg",
+      "name": "blocks-clay_loam-1.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/blocks-clay_loam-1.png",
       "folder": ""
     },
     {
-      "name": "fire_clay-128.jpg",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Clay/fire_clay-128.jpg",
+      "name": "blocks-fire_clay-1.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/blocks-fire_clay-1.png",
       "folder": ""
     },
     {
-      "name": "sandy_clay-128.jpg",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Clay/sandy_clay-128.jpg",
+      "name": "blocks-sandy_clay-1.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/blocks-sandy_clay-1.png",
       "folder": ""
     },
     {
-      "name": "silty_clay-128.jpg",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Clay/silty_clay-128.jpg",
+      "name": "blocks-silty_clay-1.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/blocks-silty_clay-1.png",
       "folder": ""
     }
   ],
   "folders": [],
   "packOptions": {
-    "textureName": "clay-map",
+    "textureName": "texture",
     "textureFormat": "png",
     "removeFileExtension": false,
     "prependFolderName": true,
     "base64Export": false,
     "tinify": false,
-    "tinifyKey": "",
+    "tinifyKey": "clay-map",
     "scale": 1,
     "filter": "none",
     "exporter": "JSON (hash)",
     "fileName": "pack-result",
-    "savePath": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Clay",
-    "width": 512,
-    "height": 512,
+    "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/",
+    "width": 1024,
+    "height": 1024,
     "fixedSize": true,
     "powerOfTwo": true,
     "padding": 0,
     "extrude": 0,
-    "allowRotation": true,
-    "allowTrim": true,
+    "allowRotation": false,
+    "allowTrim": false,
     "trimMode": "trim",
     "alphaThreshold": "0",
     "detectIdentical": true,

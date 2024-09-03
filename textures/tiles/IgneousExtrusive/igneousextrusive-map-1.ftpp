@@ -5,28 +5,28 @@
   "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousExtrusive/",
   "images": [
     {
-      "name": "block-andesite-02.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousExtrusive/block-andesite-02.png",
+      "name": "andesite-02-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousExtrusive/andesite-02-128.png",
       "folder": ""
     },
     {
-      "name": "block-basalt-02.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousExtrusive/block-basalt-02.png",
+      "name": "basalt-02-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousExtrusive/basalt-02-128.png",
       "folder": ""
     },
     {
-      "name": "block-dacite-02.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousExtrusive/block-dacite-02.png",
+      "name": "dacite-02-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousExtrusive/dacite-02-128.png",
       "folder": ""
     },
     {
-      "name": "block-obsidian-02.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousExtrusive/block-obsidian-02.png",
+      "name": "obsidian-02-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousExtrusive/obsidian-02-128.png",
       "folder": ""
     },
     {
-      "name": "block-rhyolite-05.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousExtrusive/block-rhyolite-05.png",
+      "name": "rhyolite-05-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousExtrusive/rhyolite-05-128.png",
       "folder": ""
     }
   ],
@@ -44,14 +44,14 @@
     "exporter": "JSON (hash)",
     "fileName": "pack-result",
     "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousExtrusive/",
-    "width": 1024,
-    "height": 1024,
+    "width": 512,
+    "height": 512,
     "fixedSize": true,
     "powerOfTwo": true,
     "padding": 0,
     "extrude": 0,
-    "allowRotation": false,
-    "allowTrim": false,
+    "allowRotation": true,
+    "allowTrim": true,
     "trimMode": "trim",
     "alphaThreshold": "0",
     "detectIdentical": true,

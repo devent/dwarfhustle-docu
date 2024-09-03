@@ -1,119 +1,119 @@
 {
   "frames": {
-    "block-andesite-02.png": {
+    "andesite-02-128.png": {
       "frame": {
         "x": 0,
         "y": 0,
-        "w": 256,
-        "h": 256
+        "w": 128,
+        "h": 128
       },
       "rotated": false,
       "trimmed": false,
       "spriteSourceSize": {
         "x": 0,
         "y": 0,
-        "w": 256,
-        "h": 256
+        "w": 128,
+        "h": 128
       },
       "sourceSize": {
-        "w": 256,
-        "h": 256
+        "w": 128,
+        "h": 128
       },
       "pivot": {
         "x": 0.5,
         "y": 0.5
       }
     },
-    "block-basalt-02.png": {
+    "basalt-02-128.png": {
+      "frame": {
+        "x": 0,
+        "y": 128,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "dacite-02-128.png": {
       "frame": {
         "x": 0,
         "y": 256,
-        "w": 256,
-        "h": 256
+        "w": 128,
+        "h": 128
       },
       "rotated": false,
       "trimmed": false,
       "spriteSourceSize": {
         "x": 0,
         "y": 0,
-        "w": 256,
-        "h": 256
+        "w": 128,
+        "h": 128
       },
       "sourceSize": {
-        "w": 256,
-        "h": 256
+        "w": 128,
+        "h": 128
       },
       "pivot": {
         "x": 0.5,
         "y": 0.5
       }
     },
-    "block-dacite-02.png": {
+    "obsidian-02-128.png": {
       "frame": {
         "x": 0,
-        "y": 512,
-        "w": 256,
-        "h": 256
+        "y": 384,
+        "w": 128,
+        "h": 128
       },
       "rotated": false,
       "trimmed": false,
       "spriteSourceSize": {
         "x": 0,
         "y": 0,
-        "w": 256,
-        "h": 256
+        "w": 128,
+        "h": 128
       },
       "sourceSize": {
-        "w": 256,
-        "h": 256
+        "w": 128,
+        "h": 128
       },
       "pivot": {
         "x": 0.5,
         "y": 0.5
       }
     },
-    "block-obsidian-02.png": {
+    "rhyolite-05-128.png": {
       "frame": {
-        "x": 0,
-        "y": 768,
-        "w": 256,
-        "h": 256
+        "x": 128,
+        "y": 0,
+        "w": 128,
+        "h": 128
       },
       "rotated": false,
       "trimmed": false,
       "spriteSourceSize": {
         "x": 0,
         "y": 0,
-        "w": 256,
-        "h": 256
+        "w": 128,
+        "h": 128
       },
       "sourceSize": {
-        "w": 256,
-        "h": 256
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
-    },
-    "block-rhyolite-05.png": {
-      "frame": {
-        "x": 256,
-        "y": 0,
-        "w": 256,
-        "h": 256
-      },
-      "rotated": false,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 0,
-        "w": 256,
-        "h": 256
-      },
-      "sourceSize": {
-        "w": 256,
-        "h": 256
+        "w": 128,
+        "h": 128
       },
       "pivot": {
         "x": 0.5,
@@ -127,8 +127,8 @@
     "image": "igneousextrusive-map.png",
     "format": "RGBA8888",
     "size": {
-      "w": 1024,
-      "h": 1024
+      "w": 512,
+      "h": 512
     },
     "scale": 1
   }

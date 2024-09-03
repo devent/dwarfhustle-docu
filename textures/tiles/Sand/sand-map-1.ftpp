@@ -2,31 +2,31 @@
   "meta": {
     "version": "0.6.7"
   },
-  "savePath": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sand",
+  "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand",
   "images": [
     {
       "name": "black_sand-01-128.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sand/black_sand-01-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand/black_sand-01-128.png",
       "folder": ""
     },
     {
       "name": "red_sand-01-128.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sand/red_sand-01-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand/red_sand-01-128.png",
       "folder": ""
     },
     {
       "name": "sand-01-128.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sand/sand-01-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand/sand-01-128.png",
       "folder": ""
     },
     {
       "name": "white_sand-01-128.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sand/white_sand-01-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand/white_sand-01-128.png",
       "folder": ""
     },
     {
       "name": "yellow_sand-01-128.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sand/yellow_sand-01-128.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand/yellow_sand-01-128.png",
       "folder": ""
     }
   ],
@@ -43,7 +43,7 @@
     "filter": "none",
     "exporter": "JSON (hash)",
     "fileName": "pack-result",
-    "savePath": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sand",
+    "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand",
     "width": 512,
     "height": 512,
     "fixedSize": true,
