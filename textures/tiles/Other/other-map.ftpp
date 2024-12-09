@@ -18,6 +18,11 @@
       "name": "block-unknown-01.png",
       "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Other/block-unknown-01.png",
       "folder": ""
+    },
+    {
+      "name": "tree-trunk-selected-border-256.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Other/tree-trunk-selected-border-256.png",
+      "folder": ""
     }
   ],
   "folders": [],
