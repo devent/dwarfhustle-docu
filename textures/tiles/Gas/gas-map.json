@@ -1,6 +1,6 @@
 {
   "frames": {
-    "block-carbon_dioxide-1.png": {
+    "block-carbon_dioxide-2.png": {
       "frame": {
         "x": 0,
         "y": 0,
@@ -24,7 +24,7 @@
         "y": 0.5
       }
     },
-    "block-oxygen-1.png": {
+    "block-oxygen-2.png": {
       "frame": {
         "x": 0,
         "y": 256,
@@ -48,7 +48,7 @@
         "y": 0.5
       }
     },
-    "block-polluted_oxygen-1.png": {
+    "block-polluted_oxygen-2.png": {
       "frame": {
         "x": 0,
         "y": 512,
@@ -72,7 +72,7 @@
         "y": 0.5
       }
     },
-    "block-sulfur_dioxide-1.png": {
+    "block-sulfur_dioxide-2.png": {
       "frame": {
         "x": 0,
         "y": 768,
@@ -96,7 +96,7 @@
         "y": 0.5
       }
     },
-    "block-vacuum-1.png": {
+    "block-vacuum-2.png": {
       "frame": {
         "x": 256,
         "y": 0,

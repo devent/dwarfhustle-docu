@@ -1,6 +1,6 @@
 {
   "frames": {
-    "block-selected-border.png": {
+    "block-selected-3.png": {
       "frame": {
         "x": 0,
         "y": 0,
@@ -24,7 +24,7 @@
         "y": 0.5
       }
     },
-    "block-undiscovered-01.png": {
+    "block-undiscovered-3.png": {
       "frame": {
         "x": 0,
         "y": 256,
@@ -48,7 +48,7 @@
         "y": 0.5
       }
     },
-    "block-unknown-01.png": {
+    "block-unknown-3.png": {
       "frame": {
         "x": 0,
         "y": 512,

@@ -5,28 +5,28 @@
   "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand",
   "images": [
     {
-      "name": "black_sand-01-128.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand/black_sand-01-128.png",
+      "name": "block-black_sand-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand/block-black_sand-3.png",
       "folder": ""
     },
     {
-      "name": "red_sand-01-128.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand/red_sand-01-128.png",
+      "name": "block-red_sand-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand/block-red_sand-3.png",
       "folder": ""
     },
     {
-      "name": "sand-01-128.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand/sand-01-128.png",
+      "name": "block-sand-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand/block-sand-3.png",
       "folder": ""
     },
     {
-      "name": "white_sand-01-128.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand/white_sand-01-128.png",
+      "name": "block-white_sand-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand/block-white_sand-3.png",
       "folder": ""
     },
     {
-      "name": "yellow_sand-01-128.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand/yellow_sand-01-128.png",
+      "name": "block-yellow_sand-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand/block-yellow_sand-3.png",
       "folder": ""
     }
   ],
@@ -44,14 +44,14 @@
     "exporter": "JSON (hash)",
     "fileName": "pack-result",
     "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sand",
-    "width": 512,
-    "height": 512,
+    "width": 1024,
+    "height": 1024,
     "fixedSize": true,
     "powerOfTwo": true,
     "padding": 0,
     "extrude": 0,
     "allowRotation": true,
-    "allowTrim": true,
+    "allowTrim": false,
     "trimMode": "trim",
     "alphaThreshold": "0",
     "detectIdentical": true,

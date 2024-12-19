@@ -2,61 +2,61 @@
   "meta": {
     "version": "0.6.7"
   },
-  "savePath": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sedimentary/",
+  "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sedimentary/",
   "images": [
     {
-      "name": "block-chalk-2.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sedimentary/block-chalk-2.png",
+      "name": "block-chalk-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sedimentary/block-chalk-3.png",
       "folder": ""
     },
     {
-      "name": "block-chert-2.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sedimentary/block-chert-2.png",
+      "name": "block-chert-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sedimentary/block-chert-3.png",
       "folder": ""
     },
     {
-      "name": "block-claystone-02.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sedimentary/block-claystone-02.png",
+      "name": "block-claystone-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sedimentary/block-claystone-3.png",
       "folder": ""
     },
     {
-      "name": "block-conglomerate-02.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sedimentary/block-conglomerate-02.png",
+      "name": "block-conglomerate-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sedimentary/block-conglomerate-3.png",
       "folder": ""
     },
     {
-      "name": "block-dolomite-01.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sedimentary/block-dolomite-01.png",
+      "name": "block-dolomite-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sedimentary/block-dolomite-3.png",
       "folder": ""
     },
     {
-      "name": "block-limestone-01.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sedimentary/block-limestone-01.png",
+      "name": "block-limestone-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sedimentary/block-limestone-3.png",
       "folder": ""
     },
     {
-      "name": "block-mudstone-01.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sedimentary/block-mudstone-01.png",
+      "name": "block-mudstone-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sedimentary/block-mudstone-3.png",
       "folder": ""
     },
     {
-      "name": "block-rock_salt-02.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sedimentary/block-rock_salt-02.png",
+      "name": "block-rock_salt-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sedimentary/block-rock_salt-3.png",
       "folder": ""
     },
     {
-      "name": "block-sandstone-07.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sedimentary/block-sandstone-07.png",
+      "name": "block-sandstone-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sedimentary/block-sandstone-3.png",
       "folder": ""
     },
     {
-      "name": "block-shale-02.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sedimentary/block-shale-02.png",
+      "name": "block-shale-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sedimentary/block-shale-3.png",
       "folder": ""
     },
     {
-      "name": "block-siltstone-02.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sedimentary/block-siltstone-02.png",
+      "name": "block-siltstone-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sedimentary/block-siltstone-3.png",
       "folder": ""
     }
   ],
@@ -73,7 +73,7 @@
     "filter": "none",
     "exporter": "JSON (hash)",
     "fileName": "pack-result",
-    "savePath": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Sedimentary/",
+    "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Sedimentary/",
     "width": 1024,
     "height": 1024,
     "fixedSize": true,

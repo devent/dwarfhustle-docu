@@ -1,6 +1,6 @@
 {
   "frames": {
-    "block-loam-1.png": {
+    "block-loam-2.png": {
       "frame": {
         "x": 0,
         "y": 0,
@@ -24,7 +24,7 @@
         "y": 0.5
       }
     },
-    "block-loamy_sand-1.png": {
+    "block-loamy_sand-2.png": {
       "frame": {
         "x": 0,
         "y": 256,
@@ -48,7 +48,7 @@
         "y": 0.5
       }
     },
-    "block-peat-1.png": {
+    "block-peat-2.png": {
       "frame": {
         "x": 0,
         "y": 512,
@@ -72,7 +72,7 @@
         "y": 0.5
       }
     },
-    "block-sandy_clay_loam-1.png": {
+    "block-sandy_clay_loam-2.png": {
       "frame": {
         "x": 0,
         "y": 768,
@@ -96,7 +96,7 @@
         "y": 0.5
       }
     },
-    "block-sandy_loam-1.png": {
+    "block-sandy_loam-2.png": {
       "frame": {
         "x": 256,
         "y": 0,
@@ -120,7 +120,7 @@
         "y": 0.5
       }
     },
-    "block-silt-1.png": {
+    "block-silt-2.png": {
       "frame": {
         "x": 512,
         "y": 0,
@@ -144,7 +144,7 @@
         "y": 0.5
       }
     },
-    "block-silt_loam-1.png": {
+    "block-silt_loam-2.png": {
       "frame": {
         "x": 768,
         "y": 0,
@@ -168,7 +168,7 @@
         "y": 0.5
       }
     },
-    "block-silty_clay_loam-1.png": {
+    "block-silty_clay_loam-2.png": {
       "frame": {
         "x": 256,
         "y": 256,

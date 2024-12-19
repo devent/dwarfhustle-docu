@@ -1,6 +1,6 @@
 {
   "frames": {
-    "blocks-clay-1.png": {
+    "blocks-clay-2.png": {
       "frame": {
         "x": 0,
         "y": 0,
@@ -24,7 +24,7 @@
         "y": 0.5
       }
     },
-    "blocks-clay_loam-1.png": {
+    "blocks-clay_loam-2.png": {
       "frame": {
         "x": 0,
         "y": 256,
@@ -48,7 +48,7 @@
         "y": 0.5
       }
     },
-    "blocks-fire_clay-1.png": {
+    "blocks-fire_clay-2.png": {
       "frame": {
         "x": 0,
         "y": 512,
@@ -72,7 +72,7 @@
         "y": 0.5
       }
     },
-    "blocks-sandy_clay-1.png": {
+    "blocks-sandy_clay-2.png": {
       "frame": {
         "x": 0,
         "y": 768,
@@ -96,7 +96,7 @@
         "y": 0.5
       }
     },
-    "blocks-silty_clay-1.png": {
+    "blocks-silty_clay-2.png": {
       "frame": {
         "x": 256,
         "y": 0,
@@ -124,7 +124,7 @@
   "meta": {
     "app": "http://free-tex-packer.com",
     "version": "0.6.7",
-    "image": "texture.png",
+    "image": "clay-map.png",
     "format": "RGBA8888",
     "size": {
       "w": 1024,

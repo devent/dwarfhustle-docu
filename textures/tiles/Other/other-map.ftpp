@@ -5,18 +5,18 @@
   "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Other/",
   "images": [
     {
-      "name": "block-selected-border.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Other/block-selected-border.png",
+      "name": "block-selected-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Other/block-selected-3.png",
       "folder": ""
     },
     {
-      "name": "block-undiscovered-01.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Other/block-undiscovered-01.png",
+      "name": "block-undiscovered-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Other/block-undiscovered-3.png",
       "folder": ""
     },
     {
-      "name": "block-unknown-01.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Other/block-unknown-01.png",
+      "name": "block-unknown-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Other/block-unknown-3.png",
       "folder": ""
     },
     {

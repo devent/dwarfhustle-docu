@@ -5,40 +5,40 @@
   "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/",
   "images": [
     {
-      "name": "blocks-clay-1.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/blocks-clay-1.png",
+      "name": "blocks-clay-2.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/blocks-clay-2.png",
       "folder": ""
     },
     {
-      "name": "blocks-clay_loam-1.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/blocks-clay_loam-1.png",
+      "name": "blocks-clay_loam-2.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/blocks-clay_loam-2.png",
       "folder": ""
     },
     {
-      "name": "blocks-fire_clay-1.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/blocks-fire_clay-1.png",
+      "name": "blocks-fire_clay-2.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/blocks-fire_clay-2.png",
       "folder": ""
     },
     {
-      "name": "blocks-sandy_clay-1.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/blocks-sandy_clay-1.png",
+      "name": "blocks-sandy_clay-2.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/blocks-sandy_clay-2.png",
       "folder": ""
     },
     {
-      "name": "blocks-silty_clay-1.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/blocks-silty_clay-1.png",
+      "name": "blocks-silty_clay-2.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Clay/blocks-silty_clay-2.png",
       "folder": ""
     }
   ],
   "folders": [],
   "packOptions": {
-    "textureName": "texture",
+    "textureName": "clay-map",
     "textureFormat": "png",
     "removeFileExtension": false,
     "prependFolderName": true,
     "base64Export": false,
     "tinify": false,
-    "tinifyKey": "clay-map",
+    "tinifyKey": "",
     "scale": 1,
     "filter": "none",
     "exporter": "JSON (hash)",

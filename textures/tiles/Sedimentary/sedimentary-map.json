@@ -1,6 +1,6 @@
 {
   "frames": {
-    "block-chalk-2.png": {
+    "block-chalk-3.png": {
       "frame": {
         "x": 0,
         "y": 0,
@@ -24,7 +24,7 @@
         "y": 0.5
       }
     },
-    "block-chert-2.png": {
+    "block-chert-3.png": {
       "frame": {
         "x": 0,
         "y": 256,
@@ -48,7 +48,7 @@
         "y": 0.5
       }
     },
-    "block-claystone-02.png": {
+    "block-claystone-3.png": {
       "frame": {
         "x": 0,
         "y": 512,
@@ -72,7 +72,7 @@
         "y": 0.5
       }
     },
-    "block-conglomerate-02.png": {
+    "block-conglomerate-3.png": {
       "frame": {
         "x": 0,
         "y": 768,
@@ -96,7 +96,7 @@
         "y": 0.5
       }
     },
-    "block-dolomite-01.png": {
+    "block-dolomite-3.png": {
       "frame": {
         "x": 256,
         "y": 0,
@@ -120,7 +120,7 @@
         "y": 0.5
       }
     },
-    "block-limestone-01.png": {
+    "block-limestone-3.png": {
       "frame": {
         "x": 512,
         "y": 0,
@@ -144,7 +144,7 @@
         "y": 0.5
       }
     },
-    "block-mudstone-01.png": {
+    "block-mudstone-3.png": {
       "frame": {
         "x": 768,
         "y": 0,
@@ -168,7 +168,7 @@
         "y": 0.5
       }
     },
-    "block-rock_salt-02.png": {
+    "block-rock_salt-3.png": {
       "frame": {
         "x": 256,
         "y": 256,
@@ -192,7 +192,7 @@
         "y": 0.5
       }
     },
-    "block-sandstone-07.png": {
+    "block-sandstone-3.png": {
       "frame": {
         "x": 256,
         "y": 512,
@@ -216,7 +216,7 @@
         "y": 0.5
       }
     },
-    "block-shale-02.png": {
+    "block-shale-3.png": {
       "frame": {
         "x": 256,
         "y": 768,
@@ -240,7 +240,7 @@
         "y": 0.5
       }
     },
-    "block-siltstone-02.png": {
+    "block-siltstone-3.png": {
       "frame": {
         "x": 512,
         "y": 256,

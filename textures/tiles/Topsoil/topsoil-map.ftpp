@@ -2,46 +2,46 @@
   "meta": {
     "version": "0.6.7"
   },
-  "savePath": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/",
+  "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Topsoil/",
   "images": [
     {
-      "name": "block-loam-1.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/block-loam-1.png",
+      "name": "block-loam-2.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Topsoil/block-loam-2.png",
       "folder": ""
     },
     {
-      "name": "block-loamy_sand-1.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/block-loamy_sand-1.png",
+      "name": "block-loamy_sand-2.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Topsoil/block-loamy_sand-2.png",
       "folder": ""
     },
     {
-      "name": "block-peat-1.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/block-peat-1.png",
+      "name": "block-peat-2.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Topsoil/block-peat-2.png",
       "folder": ""
     },
     {
-      "name": "block-sandy_clay_loam-1.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/block-sandy_clay_loam-1.png",
+      "name": "block-sandy_clay_loam-2.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Topsoil/block-sandy_clay_loam-2.png",
       "folder": ""
     },
     {
-      "name": "block-sandy_loam-1.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/block-sandy_loam-1.png",
+      "name": "block-sandy_loam-2.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Topsoil/block-sandy_loam-2.png",
       "folder": ""
     },
     {
-      "name": "block-silt-1.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/block-silt-1.png",
+      "name": "block-silt-2.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Topsoil/block-silt-2.png",
       "folder": ""
     },
     {
-      "name": "block-silt_loam-1.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/block-silt_loam-1.png",
+      "name": "block-silt_loam-2.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Topsoil/block-silt_loam-2.png",
       "folder": ""
     },
     {
-      "name": "block-silty_clay_loam-1.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/block-silty_clay_loam-1.png",
+      "name": "block-silty_clay_loam-2.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Topsoil/block-silty_clay_loam-2.png",
       "folder": ""
     }
   ],
@@ -58,7 +58,7 @@
     "filter": "none",
     "exporter": "JSON (hash)",
     "fileName": "pack-result",
-    "savePath": "/home/devent/Projects/dwarf-hustle/docu/Textures/tiles/Topsoil/",
+    "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/Topsoil/",
     "width": 1024,
     "height": 1024,
     "fixedSize": true,
