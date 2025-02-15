@@ -5,8 +5,18 @@
   "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/grasses/",
   "images": [
     {
-      "name": "block-wheat-1.png",
-      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/grasses/block-wheat-1.png",
+      "name": "block-daisy-1.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/grasses/block-daisy-1.png",
+      "folder": ""
+    },
+    {
+      "name": "block-red-poppy-1.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/grasses/block-red-poppy-1.png",
+      "folder": ""
+    },
+    {
+      "name": "block-wheat-2.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/grasses/block-wheat-2.png",
       "folder": ""
     },
     {
