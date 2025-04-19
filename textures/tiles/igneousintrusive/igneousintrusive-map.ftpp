@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousIntrusive",
+  "images": [
+    {
+      "name": "block-diorite-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousIntrusive/block-diorite-3.png",
+      "folder": ""
+    },
+    {
+      "name": "block-gabbro-03.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousIntrusive/block-gabbro-03.png",
+      "folder": ""
+    },
+    {
+      "name": "block-granite-3.png",
+      "path": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousIntrusive/block-granite-3.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "igneousintrusive-map",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (hash)",
+    "fileName": "pack-result",
+    "savePath": "/home/devent/Projects/dwarf-hustle/docu/textures/tiles/IgneousIntrusive",
+    "width": 1024,
+    "height": 1024,
+    "fixedSize": true,
+    "powerOfTwo": true,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": true,
+    "allowTrim": false,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}
